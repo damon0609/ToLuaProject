@@ -197,8 +197,6 @@ namespace LuaInterface
                             }
                         }
                     }
-
-                    Debugger.Log(sb.ToString());            //200行与_line一致
                 }
                 return 0;
             }

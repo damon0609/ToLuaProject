@@ -91,7 +91,12 @@ public static class CustomSettings
         //_GT(typeof(LineRenderer))
         //_GT(typeof(TrailRenderer))
 #endif
-      
+
+#region 自定义类
+        _GT(typeof(TestDemo)),
+#endregion
+
+
         _GT(typeof(Behaviour)),
         _GT(typeof(MonoBehaviour)),        
         _GT(typeof(GameObject)),

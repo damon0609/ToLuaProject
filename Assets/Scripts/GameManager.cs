@@ -33,10 +33,7 @@ public class GameManager : MonoBehaviour
         {
             //max.BeginPCall();
             //max.Push(2,3);
-
-
         }
-
     }
 
     void Update()
